@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* style.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Clash+Display:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Clash Display', sans-serif;
+}
+
+.custom-heading {
+  font-family: 'Clash Display', sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  line-height: 64px;
+  text-align: left;
+}
