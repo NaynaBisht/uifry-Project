@@ -22,4 +22,4 @@ If you prefer to run the website locally on your computer, follow these steps:
 6. Once the file is open, you can run it by simply right-clicking on the HTML file and selecting "Open with Live Server" (if using VSCode with Live Server extension).
 7. Alternatively, you can open the HTML file directly in a web browser by double-clicking on it.
 
-## Enjoy!
+## Thanks!
