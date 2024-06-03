@@ -4,7 +4,9 @@
 
 The website has been deployed and is accessible online. You can visit it by clicking on the following link:
 
-[Visit the Website on Vercel](https://uifry-project.vercel.app/)
+[Visit the Website on Vercel](https://uifry-project.vercel.app/) 
+[Visit the Website on Vercel](https://uifry-project-git-main-naynabisht1s-projects.vercel.app/)
+[Visit the Website on Vercel](https://uifry-project-p6v9y250a-naynabisht1s-projects.vercel.app/))
 
 ## Running Locally
 
